@@ -14,3 +14,5 @@ Outside Learning Pool, I'm currently developing and maintaining the following pr
 2. [Rulr](https://github.com/ryasmi/rulr) - An NPM package that provides validation and unit conversion errors in TypeScript at compile-time.
 3. [Baseroo](https://github.com/ryasmi/baseroo) - An NPM package that converts positive & negative float values from one base to another between 2-64.
 4. [Shadow Roles](https://www.shadowroles.com/) - A webpage to document the Shadow Role initiative used by colleagues at Learning Pool and friends beyond.
+
+Along my journey from a Trainee Software Engineer to a Lead Software Engineer and now a Senior Engineering Manager, I've had the opportunity to work with a lot of great folks, a lot of tech and on some great projects - most notably during my time working on [Learning Locker](http://github.com/LearningLocker/learninglocker) and associated projects like [the Moodle xAPI Logstore plugin](https://github.com/xAPI-vle/moodle-logstore_xapi).
