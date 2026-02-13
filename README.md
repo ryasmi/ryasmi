@@ -2,7 +2,7 @@
 
 > Helping people do something they love because a lack of passion has a lack of impact.
 
-I'm a Principal Engineer at [Voice Swap](https://www.voice-swap.ai/). Outside of this role, I'm currently developing and maintaining the following personal projects.
+I'm the CTO at [Voice Swap](https://www.voice-swap.ai/). Outside of this role, I'm currently developing and maintaining the following personal projects.
 
 1. [Trust Reviews](https://trust-reviews.ryasmi.com/) - A service that provides 360 Peer Reviews to help measure trust.
 2. [Rulr](https://github.com/ryasmi/rulr) - An NPM package that provides validation and unit conversion errors in TypeScript at compile-time.
